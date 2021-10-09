@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "img":"assets/abayomi.jpg",
+        "vid":"assets/Vision.mp4"
+    },
+    {
+        "id":"2",
+        "img":"assets/taobal.jpg",
+        "vid":"assets/video2.mp4"
+    },
+    {
+        "id":"3",
+        "img":"assets/taibat.jpg",
+        "vid":"assets/video3.mp4"
+    }
+]
